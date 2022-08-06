@@ -1,6 +1,6 @@
 # Python-Projects
 
-*Important* To run these projects you must have a Linux command line and a compiler
+*Important* To run these projects you must have a Linux command line and a compiler.
 To run these projects:
 
 1) Press "Code" and at the bottom press "download ZIP"
